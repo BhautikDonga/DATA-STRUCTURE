@@ -1,10 +1,10 @@
 # DATA-STRUCTURE
 programes for data structue and algorithm
 
-**##Stack**
->1)Push_Pop
-2)Infix to Postfix
-3)Infix to evaluation
+**Stack**
+>-1)Push_Pop
+-2)Infix to Postfix
+-3)Infix to evaluation
 
 **Queue**
 >1)Enqueue and Dequeue
