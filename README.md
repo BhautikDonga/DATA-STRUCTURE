@@ -1,7 +1,7 @@
 # DATA-STRUCTURE
 programes for data structue and algorithm
 
-**Stack**
+##Stack
 >1)Push_Pop
 2)Infix to Postfix
 3)Infix to evaluation
