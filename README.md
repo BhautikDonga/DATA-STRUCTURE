@@ -30,6 +30,8 @@ programes for data structue and algorithm
 6)Circular Doubly Linked list
 
 **Tree**
->1)Tree insertion
-2)Tree Traversal(Preorer,Inorder,Postorder)
-3)Find height of tree
+>1)Binary search Tree insertion
+2) deletion
+2)Traversal(Preorer,Inorder,Postorder)
+3)Find height of BST
+4)Traverse Month
