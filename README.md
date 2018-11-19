@@ -19,6 +19,12 @@ programes for data structue and algorithm
 3)Greatest Common Divisor (GCD)
 4)Tower Of Hanoi
 
+**Sort**
+>1)Bubble Sort
+2)Insertion Sort
+3)Merge Sort
+4)Selection Sort
+
 **Linked List**
 >1)Singly linked List insertiom
 2)Singly linked list deletion
