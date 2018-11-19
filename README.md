@@ -23,15 +23,15 @@ programes for data structue and algorithm
 >1)Singly linked List insertiom
 2)Singly linked list deletion
 3)Singly Linked List Reverse printing
-3)Reverse Singly Linked list 
-3)Doubly linked list insertion
-4)Doubly linked list deletion
-5)Circular Singly Linked List
-6)Circular Doubly Linked list
+4)Reverse Singly Linked list 
+5)Doubly linked list insertion
+6)Doubly linked list deletion
+7)Circular Singly Linked List
+8)Circular Doubly Linked list
 
 **Tree**
 >1)Binary search Tree insertion
-2) deletion
-2)Traversal(Preorer,Inorder,Postorder)
-3)Find height of BST
-4)Traverse Month
+2)deletion
+3)Traversal(Preorer,Inorder,Postorder)
+4)Find height of BST
+5)Traverse Month
