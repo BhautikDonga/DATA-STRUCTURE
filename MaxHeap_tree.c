@@ -1,5 +1,4 @@
-//for binary tree with n nodes we can say that leaf node is startig from floor(n/2)+1 to n.
-//In this we take value and put it at its proper place and fullfill heap properties.
+
 #include<stdio.h>
 #define N 20
 
