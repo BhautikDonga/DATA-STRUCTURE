@@ -1,5 +1,5 @@
 //for binary tree, traversal by level order method.
-//Level order traversal of a tree is breadth first traversal for the tree.
+
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -36,7 +36,7 @@ void insert_queue(struct treeNode* value){
 
 void dequeue(){
     struct queueNode * temp;
-    //we dont have to put front = null condition because dequeue is nt called when front = null.
+    //we dont have to put front = null condition because dequeue is not called when front = null.
     temp = front->ptr;
     free(front);
     front = temp;
