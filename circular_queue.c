@@ -1,5 +1,3 @@
-//make display function
-
 #include<stdio.h>
 #define N 3
 
@@ -43,11 +41,6 @@ void display(int q[]){
     }while(i!=F);
     printf("\n");
 
-
-    /*for(u=0;u<N;u++){
-        printf("%d",q[i]);
-        u=(u+1)%N;
-    }*/
 }
 
 int main(){
