@@ -68,6 +68,9 @@ int main(){
     case 3:
         display(q);
         break;
+    case 4:
+         break;   
+            
     default:
         printf("Enter perfect value\n");
 
