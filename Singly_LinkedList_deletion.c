@@ -27,8 +27,8 @@ struct node* deleteFront(struct node* head){
 
     if(head->link == NULL){
         free(head);
-        printf("List is empty\n");
-        return;
+        printf("Now List became empty\n");
+        return NULL;
     }
     head = head->link;
     free(nodeToBeDeleted);
