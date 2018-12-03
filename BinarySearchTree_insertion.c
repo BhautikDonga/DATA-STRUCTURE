@@ -19,6 +19,7 @@ void insert_val(struct treeNode ** root,int val){
 
     if(newNode==NULL){
         printf("error in malloc\n");
+        return;
     }
 
     newNode->value = val;
