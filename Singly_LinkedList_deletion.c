@@ -60,9 +60,7 @@ struct node* deleteSpecific(struct node* head,int val){
         return head;
     }
 
-    if(head->link == NULL && head->value == val){
-        //condition for only node
-        //in other case we find out our value from sitting at previous Node ,here there is only single Node
+    if(head->value == val){
         nodeToBeDeleted = head;
         head = head->link;
         free(nodeToBeDeleted);
