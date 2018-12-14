@@ -10,8 +10,7 @@ programes for data structue and algorithm
 >1)Enqueue and Dequeue
 2)Circular Queue
 3)Priority Queue
-4)Double Ended Queue
-5)Queue by 2 Stacks
+4)Queue by 2 Stacks
 
 **Recursion**
 >1)Factorial
