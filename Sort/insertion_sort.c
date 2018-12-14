@@ -6,10 +6,10 @@ void main(){
     scanf("%d",&n);
 
     int a[n];
+    printf("Enter the unsorted list of numbers:\n");
     for(i=0;i<n;i++)
         scanf("%d",&a[i]);
 
-    printf("Enter the unsorted list of numbers:\n");
     for(i=1;i<n;i++){// i will loop for n-1 times
         key = a[i];
         j=i-1;
